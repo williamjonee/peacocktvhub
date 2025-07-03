@@ -11,7 +11,7 @@ How to Contact Peacock TV?: A Complete Guide 📞
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://tvpeacock.support
+   :target: https://tvpeacock.support/support.html
 ___________________
 
 Peacock TV has become one of the leading streaming platforms in the U.S., offering a vast library of shows, movies, sports, and original content. From NBC classics to live sports coverage, it's a go-to for millions. But like with any digital service, users sometimes run into issues. Whether it's billing problems, streaming errors, or account troubles, knowing how to contact Peacock TV can save you time and frustration.
